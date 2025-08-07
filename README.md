@@ -1,80 +1,36 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
-<center><img src=./logo.jpg width="auto" height="200px" /></center>
+## 👋 안녕하세요! 개발 공부를 시작한 김기수입니다.
 
-# 👩‍💻 Kisoo Kim | AI & Education Student
-
----
-
-## 🧩 About Me
-
-안녕하세요! 저는 **26년 경력의 실무형 교육자/개발자/기획자**로 
-
-
-직업훈련, 생성형 AI, Whisper 기반 챗봇, 데이터 분석, ISO 인증 시스템 등 다양한 프로젝트를 기획·운영해왔습니다.
-
-- 한국직업능력개발센터 센터장  
-- 한신대학교 AI·SW 겸임교수  
-- 고용노동부 2017년 2021년/산업자원통상부 2022년 장관상 3회 수상  
-- 직업능력개발훈련교사 자격 16개 직종 분야 자격 보유
-- 평생교육사 2급, 한국어교원 2급(3급자격 이수)
-- 정보처리, 정보기기, 컴퓨터그래픽스, 웹디자인개발, 전자출판 외 컴퓨터관련 국가기술, 국가공인 자격증 80여가지 보유
+저는 요즘 개발에 재미를 붙이고, 꾸준히 성장 중인 예비 개발자입니다.  
+기초부터 하나씩 차근차근 배우면서, 저만의 프로젝트도 만들어보고 있어요.  
+**"오늘의 나보다 더 나은 내일의 나를 만드는 중입니다."** 💪
 
 ---
 
-## 📌 주요 프로젝트
-
-### [HRDTMS 시스템 구축](#)
-- 교육기관용 학습관리시스템 및 비대면 교육지원 기능
-- 비대면 학습관리 플랫폼 설계·구축  
-
-### [Whisper + GPT 기반 음성비서 챗봇](#)
-- Streamlit 기반 인터페이스 + TTS/STT 통합 파이프라인
-- 음성·텍스트 통합 AI 상담 비서 개발
-
-### [AHP 기반 직업훈련 역량 평가도구 설계](#)
-- 정책연구 기반 프레임 구축 + 논문화 진행
-- 직업교육과 직업훈련 직종별 분석 모델 연구
-
-> 각 프로젝트는 레포지토리 또는 Notion에서 확인 가능합니다.
+## 🛠️ 배우는 중인 기술
+- HTML / CSS
+- JavaScript
+- Git & GitHub
+- Python (기초)
+- VS Code, Figma 등 개발 도구
 
 ---
 
-## 🛠️ Tech Stack
-
-- **언어**: Python, PyTorch,  Java, R, HTML/CSS/JS  
-- **프레임워크/도구**: Streamlit, Whisper, LangChain, KoGPT2, HuggingFace  
-- **데이터분석**: Pandas, Matplotlib, Jamovi, PowerBI 등 
-- **버전관리**: Git, GitHub  
-- **시각화**: Adobe Tools, Canva, 미리캔버스, Notion, PPT 외 다수
+## 🧠 공부 기록
+- [TIL (Today I Learned)](https://github.com/kisoo1029/TIL): 매일 배운 내용을 기록 중입니다.
 
 ---
 
-## 📝 Publications & Lectures
-
-- **논문**: 사회적 지능과 학업열의 영향 분석 (JCCT, 2025) 외 다수  
-- **저서**: 컴퓨터활용능력 2급 필기 (피앤피북), ChatGPT 프롬프트 엔지니어링 외  
-- **강의**: 경기대, 단국대, 한신대, KOSA, NIPA 등 연 1,200시간 이상 강의
-
----
-
-## 🔗 Links
-
-- **Notion 포트폴리오**: <https://www.notion.so/aebon/> 제작중
-- [Notion 이력서](https://www.notion.so/aebon/Aebon-s-Information-Career-7b97e044c1d7432ab8333af05e0ac968)
-- [LinkedIn 프로필](https://www.linkedin.com/in/aebon/)
-- [강의자료 유튜브(예정)](https://www.youtube.com/@%EC%9D%B4%EC%95%A0%EB%B3%B8%EA%B5%90%EC%88%98%EC%9D%98%EC%97%AD%EB%9F%89%EA%B8%B0%EB%B0%98)
+## ✨ 앞으로 이런 개발자가 되고 싶어요
+- 사용자에게 **편리한 경험**을 주는 프론트엔드 개발자
+- 팀과 함께 소통하며 성장하는 개발자
+- 꾸준히 배우고 기록하는 개발자
 
 ---
 
-## 📬 Contact
-
-- Email: **aebon@kyonggi.ac.kr**
-
-더 나은 기술 교육을 고민하는 모든 분과 협업하고 싶습니다.
-Feel free to connect!
+## 📫 연락하기
+- Email: rltn1029@naver.com
+- GitHub: [github.com/kisoo1029](https://github.com/kisoo1029)
 
 ---
 
-> © 2024 Aebon Lee | Powered by Whisper, GPT, and lifelong curiosity.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+_지금은 부족하지만, 하루하루 성장하는 개발자가 되겠습니다! 😊_
